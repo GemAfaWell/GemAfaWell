@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @GeminiPowell
+<div align="center">
+  - 👋 Hi, I’m @GeminiPowell
 - 👀 I’m interested in music, tech and books!
 - 🌱 I’m currently learning React (multiple sources), Cybersecurity Analysis (IBM), Back-End Web Development (Meta), Digital Marketing (Meta) and UX Design (Google) 
 - 🎓 I'm a February 2023 Candidate for Graduation at Mercy College; I also have certifications in Front-End Web Development (Udacity) and others, available on my LinkedIn (see links on left)
@@ -13,3 +14,4 @@ You can click the Preview link to take a look at your changes.
 
   [![Gem's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeminiPowell&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/GeminiPowell/github-readme-stats)
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeminiPowell&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/GeminiPowell/github-readme-stats)
+</div>
