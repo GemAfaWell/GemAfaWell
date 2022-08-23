@@ -17,7 +17,6 @@
 GeminiPowell/GeminiPowell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-    <p>
   [![Gem's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeminiPowell&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/GeminiPowell/github-readme-stats)
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeminiPowell&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/GeminiPowell/github-readme-stats)
 </div>
