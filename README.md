@@ -9,8 +9,8 @@
       <ul>
         <li>📧 by email (powell.gem.s@gmail.com)
         <li>🎮 on Discord (TwinFreedom#3265)
-        <li>📣 on Twitter [@GemAfaWell](https://www.twitter.com/GemAfaWell)
-        <li>💻 on Reddit [u/GemAfaWell](https://www.reddit.com/user/GemAfaWell)
+        <li>📣 on Twitter <a href="https://www.twitter.com/GemAfaWell">(@GemAfaWell)</a>
+        <li>💻 on Reddit <a href="https://www.reddit.com/user/GemAfaWell">(u/GemAfaWell)</a>
   </ul>
 <!---
 GeminiPowell/GeminiPowell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
