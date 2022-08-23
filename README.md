@@ -4,11 +4,11 @@
     <li>👀 I’m interested in music, tech and books!
     <li>🌱 I’m currently learning React (multiple sources), Cybersecurity Analysis (IBM), Back-End Web Development (Meta), Digital Marketing (Meta) and UX Design (Google) 
     <li>🎓 I'm a February 2023 Candidate for Graduation at Mercy College; I also have certifications in Front-End Web Development (Udacity) and others, available on my LinkedIn (see links on left)
-    <li>💞️ I’m looking to collaborate on coding projects that will allow me to practice what I'm learning and freelance or apprenticeship opportunities that will    allow me to put my successes to work 
+    <li>💞️ I’m looking to collaborate on coding projects that will allow me to practice what I'm learning and freelance or apprenticeship opportunities that will allow me to put my successes to work 
     <li>📫 How to reach me: 
       <ul>
-        <li>📧 by email <a href="mailto:powell.gem.s@gmail.com">powell.gem.s@gmail.com</a>
-        <li>🎮 on Discord (TwinFreedom#3265)
+        <li>📧 by email <a href="mailto:powell.gem.s@gmail.com">(powell.gem.s@gmail.com)</a>
+        <li>🎮 on Discord <a href="discordapp.com/users/TwinFreedom#3265">(TwinFreedom#3265)</a>
         <li>📣 on Twitter <a href="https://www.twitter.com/GemAfaWell">(@GemAfaWell)</a>
         <li>💻 on Reddit <a href="https://www.reddit.com/user/GemAfaWell">(u/GemAfaWell)</a>
   </ul>
