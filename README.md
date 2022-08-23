@@ -7,7 +7,7 @@
     <li>💞️ I’m looking to collaborate on coding projects that will allow me to practice what I'm learning and freelance or apprenticeship opportunities that will    allow me to put my successes to work 
     <li>📫 How to reach me: 
       <ul>
-        <li>📧 by email (powell.gem.s@gmail.com)
+        <li>📧 by email <a href="mailto:powell.gem.s@gmail.com">powell.gem.s@gmail.com</a>
         <li>🎮 on Discord (TwinFreedom#3265)
         <li>📣 on Twitter <a href="https://www.twitter.com/GemAfaWell">(@GemAfaWell)</a>
         <li>💻 on Reddit <a href="https://www.reddit.com/user/GemAfaWell">(u/GemAfaWell)</a>
