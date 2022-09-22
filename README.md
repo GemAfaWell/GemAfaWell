@@ -10,9 +10,9 @@
       </ul>
     <li>🌱 I’m currently learning:
       <ul>
-        <li>React (multiple sources)
+        <li>React (Meta)
         <li>Cybersecurity Analysis (IBM)
-        <li>Back-End Web Development (Meta)
+        <li>Python (Meta)
         <li>Digital Marketing (Meta)
         <li>UX Design (Google)
       </ul>
