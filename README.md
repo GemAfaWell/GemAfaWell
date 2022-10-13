@@ -29,7 +29,7 @@
     <li>📫 How to reach me: 
       <ul>
         <li>📧 by email <a href="mailto:powell.gem.s@gmail.com">(powell.gem.s@gmail.com)</a>
-        <li>🎮 on Discord <a href="discordapp.com/users/TwinFreedom#3265">(TwinFreedom#3265)</a>
+        <li>🎮 on Discord <a href="discordapp.com/users/GemAfaWell#3265">(GemAfaWell#3265)</a>
         <li>📣 on Twitter <a href="https://www.twitter.com/GemAfaWell">(@GemAfaWell)</a>
         <li>💻 on Reddit <a href="https://www.reddit.com/user/GemAfaWell">(u/GemAfaWell)</a>
   </ul>
