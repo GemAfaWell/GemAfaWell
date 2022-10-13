@@ -19,7 +19,7 @@
     <li>🎓 Accomplishments! 
       <ul>
         <li>I'm a Winter 2023 Candidate for Graduation at Mercy College!
-        <li>I have certifications in Front-End Web Development (Udacity) and Foundational UX Design (Google) 
+        <li>I have certifications in Front-End Web Development (Udacity), Foundational Project Management (Google), and Foundational UX Design (Google) 
         <li>Full curriculum vitae is available on my <a href="https://www.linkedin.com/in/gem-powell">LinkedIn</a>
       </ul>
     <li>💞️ I’m looking for: 
