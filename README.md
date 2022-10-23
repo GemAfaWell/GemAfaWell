@@ -10,9 +10,9 @@
       </ul>
     <li>🌱 I’m currently learning:
       <ul>
-        <li>React (Meta)
+        <li>React (Meta/freeCodeCamp)
         <li>Cybersecurity Analysis (IBM)
-        <li>Python (Meta)
+        <li>Python (Meta/Alfy Bootcamp)
         <li>Digital Marketing (Meta)
         <li>UX Design (Google)
       </ul>
