@@ -10,15 +10,15 @@
       </ul>
     <li>🌱 I’m currently learning:
       <ul>
-        <li>React (Meta/freeCodeCamp)
+        <li>the MERN stack (100Devs)
         <li>Cybersecurity Analysis (IBM)
-        <li>Python (Meta/Alfy Bootcamp)
+        <li>Python (Meta)
         <li>Digital Marketing (Meta)
         <li>UX Design (Google)
       </ul>
     <li>🎓 Accomplishments! 
       <ul>
-        <li>I'm a Winter 2023 Candidate for Graduation at Mercy College!
+        <li>I'm a CompSci student - I'm studying for my Bachelor's in Computer Science at the University of the People!
         <li>I have certifications in Front-End Web Development (Udacity), Foundational Project Management (Google), and Foundational UX Design (Google) 
         <li>Full curriculum vitae is available on my <a href="https://www.linkedin.com/in/gem-powell">LinkedIn</a>
       </ul>
