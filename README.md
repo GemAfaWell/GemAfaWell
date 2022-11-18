@@ -43,3 +43,5 @@ You can click the Preview link to take a look at your changes.
 
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeminiPowell&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/GeminiPowell/github-readme-stats)
 
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GeminiPowell)](https://github.com/anuraghazra/github-readme-stats)
+      
