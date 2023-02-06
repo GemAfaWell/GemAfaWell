@@ -18,7 +18,7 @@
 
 [![Gem’s github stats](https://github-readme-stats.vercel.app/api?username=GeminiPowell)](https://github.com/GeminiPowell)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeminiPowell&layout=compact)](https://github.com/GeminiPowell)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeminiPowell)](https://github.com/GeminiPowell/github-readme-stats)
 
 <!---
 GeminiPowell/GeminiPowell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
