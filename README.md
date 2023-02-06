@@ -16,10 +16,10 @@
   Work in Progress! Updating - check back by EOD on February 6th!
 </p>
 
-[![Gem’s github stats](https://github-readme-stats.vercel.app/api?username=GeminiPowell)](https://github.com/GeminiPowell)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeminiPowell)](https://github.com/GeminiPowell/github-readme-stats)
-
+<p align="center">
+  <img alt="Gem’s github stats" src="https://github-readme-stats.vercel.app/api?username=GeminiPowell">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeminiPowell">
+</p>
 <!---
 GeminiPowell/GeminiPowell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
