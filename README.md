@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-  <img alt="Gem’s github stats" src="https://github-readme-stats.vercel.app/api?username=GeminiPowell" height="150px">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeminiPowell" height="150px">
+  <img alt="Gem’s github stats" src="https://github-readme-stats.vercel.app/api?username=GeminiPowell" height="200px">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeminiPowell" height="200px">
 </p>
 <!---
 GeminiPowell/GeminiPowell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
