@@ -1,4 +1,4 @@
-<img src="https://github.com/GeminiPowell/GeminiPowell/blob/main/GP%20Banner.gif" alt="Gemini Powell banner" align="center">
+<img src="https://github.com/GeminiPowell/GeminiPowell/blob/main/GP%20Banner.gif" alt="Gemini Powell banner" align="center" width="66.66%" height="66.66%">
 <h1 align="center">👋 Hi, I’m @GeminiPowell</h1>
   <ul>
     <li>👀 Interests: 
