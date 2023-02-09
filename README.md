@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  I'm also the founder of Texas WebGems, a web development firm specializing in maintenance and building of basic SPAs using front-end frameworks and libraries. So excited to make a diamond out of the rough!
+  I'm also the founder of <a href="https://texaswebgems.com">Texas WebGems</a>, a web development firm specializing in maintenance and building of basic SPAs using front-end frameworks and libraries. So excited to make a diamond out of the rough!
 </p>
 
 <p align="center">
