@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev>
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,react,nextjs,nodejs,express,mongodb,firebase" alt="Skills: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Git, Github, ReactJS, Next.js, Node.js, Express, MongoDB, Firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,react,nextjs,nodejs,express,mongodb,firebase" />
   </a>
 </p>  
 
