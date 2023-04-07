@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/GeminiPowell/GeminiPowell/blob/main/GP%20Banner.gif" alt="Gemini Powell banner" style="height:300px;width:auto;border-radius:0.5rem">
+  <img src="https://github.com/GeminiPowell/GeminiPowell/blob/main/GP%20Banner.gif" alt="Gemini Powell banner" style="height:300px;width:auto">
   <h1 align="center">👋 Hi, I’m <a href="https://gemafawell.dev">Gemini Powell</a> (they/them)</h1>
 </p>
 
