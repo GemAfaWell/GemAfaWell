@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/GeminiPowell/GeminiPowell/blob/main/GP%20Banner.gif" alt="Gemini Powell banner" height="300px">
-  <h1 align="center">👋 Hi, I’m <a href="https://gemafawell.dev">Gemini Powell</a></h1>
+  <h1 align="center">👋 Hi, I’m <a href="https://gemafawell.dev">Gemini Powell</a> (they/them)</h1>
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@
 </p>
 
 <p align="center">
-  I'm Gemini! I'm 31, I'm a software engineer and web developer, and I'm looking forward to sharing what I build with you all.
+  I'm Gemini! I'm 31, I'm a full-stack web developer, and I'm looking forward to sharing what I build with you all.
 </p>
 
 <p align="center">
-  I'm also the founder of <a href="https://texaswebgems.com">Texas WebGems</a>, a web development firm specializing in maintenance and building of basic SPAs using front-end frameworks and libraries. So excited to make a diamond out of the rough!
+  I'm also the founder of <a href="https://texaswebgems.com">Texas WebGems</a>, a web development firm specializing in maintenance and building of SPAs and MPAs using the MERN stack. So excited to make diamonds out of the Internet's rough!
 </p>
 
 <p align="center">
