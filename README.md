@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/GeminiPowell/GeminiPowell/blob/main/GP%20Banner.gif" alt="Gemini Powell banner" height="250px">
-  <h1 align="center">👋 Hi, I’m <a href="https://gemafawell.dev">Gemini Powell</a> (they/them)</h1>
+  <h1 align="center">👋 Hi, I’m <a href="https://gemafawell.dev">Gemini Powell</a> (she/her)</h1>
 </p>
 
 <p align="center">
