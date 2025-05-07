@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  I'm also the founder of <a href="https://texaswebgems.com">Texas WebGems</a>, a web development firm specializing in maintenance and building of SPAs and MPAs using the MERN stack. So excited to make diamonds out of the Internet's rough!
+  I'm also the founder of <a href="https://tristatewebgems.com">Tri-State WebGems</a>, a web development and marketing firm specializing in maintenance and building of SPAs and MPAs, and the growth of small business brands via SEO. Looking for the next opportunity bigger than me!
 </p>
 
 <p align="center">
