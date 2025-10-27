@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  I'm Gemini! I'm 33, I'm a full-stack web developer, and I'm looking forward to sharing what I build with you all.
+  I'm Gemini! I'm 34, I'm a full-stack web developer, and I'm looking forward to sharing what I build with you all.
 </p>
 
 <p align="center">
